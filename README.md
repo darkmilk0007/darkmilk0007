@@ -1,6 +1,6 @@
 Hi, am darkmilk
 - 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning HTML & CSS
 
 <!---
 darkmilk0007/darkmilk0007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
